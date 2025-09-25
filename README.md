@@ -7,7 +7,7 @@ Long Story Short: G29 Mainboard got mayhem.
 - Power Supply is good, tested, and used another supply to confirm.
 - Diodes and Mosfets got replaced ( not all, lack of tools and skill to be honest) as per this video: https://www.youtube.com/watch?v=7N3erLtbl4U
 - USB connection works, and registers Buttons and Pedals, gets detected in GHUB.
-- Using Leonardo to make the Steering wheel work in games. G29 buttons and pedals USB + Leonardo USB for the Steering
+- Using Leonardo to make the Steering wheel work in games. G29 buttons and pedals USB + Leonardo USB for the Steering ( it will not work on Playstation )
 
 Since its problem with Power to the DC Motors and G29 failsafe procedure. Until I properly replace all mosfets and diode and further testing
 I started this hell of a journey to at least make the steering work ( initially without FFB or Motors code ).
